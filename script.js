@@ -42,9 +42,6 @@ function stopGame(){
   
   document.getElementById("startBtn").classList.remove("hidden");
   document.getElementById("stopBtn").classList.add("hidden");
-  //document.getElementbyId("startBtn").classList.remove("hidden");
-  //document.getElementbyId("stopBtn").classList.add("hidden");
-  
 }
 
 function lightButton(btn){
